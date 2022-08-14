@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What year was the State of Israel founded?",
+      "choices": ["1897", "1948", "1922", "1994"],
+      "answer": "1948"
+    },
+    {
+      "question": "What is the capital of Israel?",
+      "choices": ["Tel Aviv", "Jerusalem", "Be'er Sheba", "Haifa"],
+      "answer": "Jerusalem"
+    },
+    {
+      "question": "What was the name of Israel's first Prime Minister ?",
+      "choices": [
+        "David Ben-Gurion",
+        "Yitzhaak Rabin",
+        "Golda Meir",
+        "Bibi Netanyahu"
+      ],
+      "answer": "David Ben-Gurion"
+    },
+    {
+      "question": "Which sea does Tel Aviv face?",
+      "choices": ["Mediterranean Sea", "Dead Sea", "Red Sea", "Pacific Ocean"],
+      "answer": "Mediterranean Sea"
+    },
+    {
+      "question": "Which of the following countries does not border with Israel?",
+      "choices": ["Egypt", "Lebanon", "Iran", "Syria"],
+      "answer": "Iran"
+    },
+    {
+      "question": "What is the capital of Argentina?",
+      "choices": ["Buenos Aires", "Rosario", "Córdoba", "Montevideo"],
+      "answer": "Buenos Aires"
+    },
+    {
+      "question": "When did the declaration of independence of Argentina occured?",
+      "choices": ["1817", "1880", "1810", "1816"],
+      "answer": "1816"
+    },
+    {
+      "question": "Where was Adolf Eichmann caught?",
+      "choices": [
+        "Olivos, Buenos Aires",
+        "San Fernando, Buenos Aires",
+        "Tucumán",
+        "Patagonia"
+      ],
+      "answer": "San Fernando, Buenos Aires"
+    },
+    {
+      "question": "Which of the following countries does not border with Argentina?",
+      "choices": ["Uruguay", "Colombia", "Chile", "Brazil"],
+      "answer": "Colombia"
+    },
+    {
+      "question": "How many women Presidents did Argentina have?",
+      "choices": ["Three", "Two", "One", "Zero"],
+      "answer": "Two"
+    }
+  ]
+}
